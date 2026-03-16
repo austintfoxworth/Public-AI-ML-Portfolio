@@ -4,7 +4,7 @@ Welcome to my machine learning portfolio! This repository showcases my work acro
 
 ## 📂 Projects
 
-### 🎯 [Dialogue Summarization: Fine-Tuning vs. LLM Inference](./capstone-project-link)
+### 🎯 [Dialogue Summarization: Fine-Tuning vs. LLM Inference](./dialogue_summarization.ipynb)
 **Capstone Project** | Natural Language Processing | Large Language Models
 
 A comprehensive comparison of fine-tuning approaches versus direct LLM inference for dialogue summarization tasks. This project explores the trade-offs between computational efficiency, performance, and implementation complexity.
